@@ -1,0 +1,202 @@
+body{
+    box-sizing: border-box;
+    background-color: #F2F2F2;
+}
+
+.container-fluid, .navbar{
+    background-color: #6B545D;
+    color: white;
+}
+
+.links li a{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.imanHeroText{
+    display: flex;
+    
+}
+
+.imanHeroText h1{
+    font-size: 7.25rem;
+    font-family: 'Roboto Mono', sans-serif;
+    font-weight: 500;
+}
+
+.imanHeroText h6{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.heroTextSub{
+    font-size: 1.25rem;
+    font-weight: 400;
+
+}
+
+.myMusicButton, .downloadButton{
+    text-decoration: none;
+    background-color: #999891;
+    border-radius: 5px;
+    color: white    ;
+    transition: 400ms;
+}
+.downloadButton:hover{
+    background: black;
+    color: white;
+    transition: 400ms;
+}
+.myMusicButton:hover{
+    background: black;
+    color: white;
+    transition: 400ms;
+}
+
+
+.brotherInfo h3{
+    font-family: 'Roboto Mono', sans-serif;
+    font-weight: 500;
+}
+.brotherInfo h6, .brotherBio h6{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 25px;
+    
+}
+
+.brotherBio{
+    font-family: 'Roboto Mono', sans-serif;
+    font-weight: 500;
+}
+
+.stream-buttons{
+    text-decoration: none;
+    background-color: rgb(22, 22, 20);
+    padding: 19px 30px 18px 35px;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+}
+
+.footer{
+    background-color: #6B545D;
+    color: white;
+}
+.footer-grey{
+    background-color: white;
+    color: black;
+}
+
+.footer h4{
+    font-size: 1.2rem;
+    font-family: 'Roboto Mono', sans-serif;
+    font-weight: 500;
+}
+
+.footer h6, .footer-grey h6{
+    font-size: 0.9rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.call, .mail{
+    display: flex;
+}
+.call h5, .mail h5{
+    font-size: 1rem;
+    font-family: 'Roboto', monospace;
+}
+
+.footer-links a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-family: 'Roboto',sans-serif;
+    font-size: 0.9rem;
+}
+.contactMe{
+    font-family: 'Roboto', sans-serif;
+}
+
+form button{
+    text-decoration: none;
+    background-color: #999891;
+    padding: 16px 43px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto';
+    border: none;
+    transition: 400ms;
+}
+
+form button:hover{
+    background-color: black;
+    color: white;
+    transition: 400ms;
+}
+.phoneDetails h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.35rem;
+    font-weight: 500;
+}
+.phoneDetails h6{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.imanImages img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+
+@media (max-width:575px){
+    .imanHeroText h1{
+        font-size: 6.25rem;
+    }
+
+    .myMusicButton{
+        display: inline-block;
+        margin-top: 20px;
+    }
+
+}
+@media (min-width:576px){
+    .imanHeroText h1{
+        font-size: 8.25rem;
+    }
+
+    
+}
+
+@media only screen and (max-width: 992px) and (min-width: 400px){
+    .quicklinks, .contact-us{
+        margin-top: 25px;
+    }
+}
+
+@media (min-width:992px){
+    .imanHeroText h1{
+        font-size: 10.25rem;
+    }
+
+    .brotherInfo h3{
+        font-size: 1.7rem;
+    }
+    .brotherInfo h6, .brotherBio h6{
+        font-size: 1.1rem;
+        line-height: 45px;
+    }
+    .quicklinks{
+        margin-top: 0px;
+    }
+}
+
+@media (min-width:1200px){
+    .imanHeroText h1{
+        font-size: 12.25rem;
+    }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="Iman-Star" transform="translate(-824 -364)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(824 364)" fill="#fff" stroke="#000" stroke-width="2">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="26" fill="none"/>
+    </g>
+    <path id="Polygon_1" data-name="Polygon 1" d="M20,0l5,14.875,15,.4-11.91,9.6L32.361,40,20,31.056,7.639,40,11.91,24.875,0,15.279l15-.4Z" transform="translate(831 371)" fill="#131111"/>
+  </g>
+</svg>

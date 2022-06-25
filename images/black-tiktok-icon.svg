@@ -1,0 +1,28 @@
+<svg id="black-tiktok-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.944" height="38.944" viewBox="0 0 38.944 38.944">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.003" y1="1.003" x2="0.997" y2="0.003" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#111"/>
+      <stop offset="1" stop-color="#323232"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.079" y1="0.885" x2="0.902" y2="0.158" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b5053c"/>
+      <stop offset="0.233" stop-color="#c90441"/>
+      <stop offset="0.737" stop-color="#f0014b"/>
+      <stop offset="1" stop-color="#ff004f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.067" y1="0.896" x2="0.934" y2="0.13" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b2c9"/>
+      <stop offset="0.283" stop-color="#00c8d4"/>
+      <stop offset="0.741" stop-color="#00e6e4"/>
+      <stop offset="1" stop-color="#00f1ea"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-0.497" y1="1.391" x2="1.527" y2="-0.39" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dde3e4"/>
+      <stop offset="1" stop-color="#fcf7f7"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_1" data-name="Path 1" d="M19.472,0A19.472,19.472,0,1,0,38.944,19.472,19.472,19.472,0,0,0,19.472,0Z" fill="url(#linear-gradient)"/>
+  <path id="Path_2" data-name="Path 2" d="M152.221,120.67a5.5,5.5,0,0,1-5.5-5.5h-3.932v15.4a3.344,3.344,0,1,1-2.4-3.211v-3.823a7.1,7.1,0,1,0,6.149,7.034l.114-7.784a9.394,9.394,0,0,0,5.573,1.821Z" transform="translate(-122.273 -106.406)" fill="url(#linear-gradient-2)"/>
+  <path id="Path_3" data-name="Path 3" d="M138.557,106.587a5.5,5.5,0,0,1-5.5-5.5H129.12v15.4a3.344,3.344,0,1,1-2.4-3.211v-3.823a7.1,7.1,0,1,0,6.149,7.034l.115-7.784a9.394,9.394,0,0,0,5.573,1.821Z" transform="translate(-109.648 -93.394)" fill="url(#linear-gradient-3)"/>
+  <path id="Path_4" data-name="Path 4" d="M151.195,120.573a8.672,8.672,0,0,1-5.4-5.406h-3v15.4a4.039,4.039,0,1,1-3.439-4.283V123.47a6.451,6.451,0,1,0,6.149,6.024l.115-7.784a9.394,9.394,0,0,0,5.573,1.821Z" transform="translate(-122.286 -106.407)" fill="url(#linear-gradient-4)"/>
+</svg>
